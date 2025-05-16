@@ -28,6 +28,7 @@ contourpy==1.2.1
 cycler==0.12.1
 Cython==3.0.12
 dask==2025.3.0
+DateTime==5.5
 ddeint==0.3.0
 debugpy @ file:///D:/bld/debugpy_1737269761841/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1733236420667/work
@@ -255,3 +256,4 @@ xyzservices==2025.1.0
 yarl==1.18.3
 zict==3.0.0
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1732827521216/work
+zope.interface==7.2
